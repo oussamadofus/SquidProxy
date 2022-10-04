@@ -1,6 +1,5 @@
 # Squid Proxy Installer
 
-https://serverok.in/squid
 
 Auto install Squid 3 proxy on following linux OS.
 
@@ -18,13 +17,6 @@ wget https://raw.githubusercontent.com/serverok/squid-proxy-installer/master/squ
 sudo bash squid3-install.sh
 ```
 
-## Videos - How to install Squid Proxy Server.
-
-[![How to install Squid Proxy Server in DigitalOcean VPS](https://i.imgur.com/eGt5nmB.png)](https://rumble.com/vdswgv-install-squid-proxy-server-in-digitalocean-vps.html)
-
-https://rumble.com/vdswgv-install-squid-proxy-server-in-digitalocean-vps.html
-
-https://odysee.com/squid-proxy-install:1
 
 
 # Create Users
@@ -68,8 +60,3 @@ wget https://raw.githubusercontent.com/serverok/squid-proxy-installer/master/squ
 sudo bash squid-conf-ip.sh
 ```
 
-# Support
-
-If you are looking for paid support, contact me
-
-https://serverok.in/contact
